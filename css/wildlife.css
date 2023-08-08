@@ -1,0 +1,283 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+
+
+
+.a{
+	height: 1500px;
+	width:1400px;
+	background-color: black;
+	
+}
+
+.b{
+	height:750px;
+	width:100%;
+	background: url('../images/wildlife.jpg');
+	color: white;
+	font-size:50px;
+	padding-top: 120px;
+	background-size: cover;
+
+}
+.view{
+	font-size:30px;
+	text-align:center;
+	color:black;
+}
+.button{
+	width: 150px;
+	height: 40px;
+	background-color: white;
+	border-radius: 20px;
+}
+.text_size{
+	font-size:25px;
+	text-align:center;
+}
+.heading_top{
+	text-align: center;
+	font-size: 70px;
+	
+}
+.c{
+	height: 750px;
+	width:1400px;
+	background-color:black;
+}
+.heading_top2{
+	text-align: center;
+	font-size: 30px;
+	color: white;
+}
+.text_size2{
+	ont-size:10px;
+	text-align:center;
+	color: white;
+
+}
+.aquatic{
+	
+	background-image: url('../images/aqua.jpg');
+	height: 700px;
+	width: 400px;
+	object-fit: cover;
+	background-repeat: no-repeat;
+	margin-top: 150px;
+	margin-left: 40px;
+	float:left;
+}
+.color{
+	padding-left: 20px;
+	padding-top: 90px;
+	font-size: 20px;
+	color: white;
+}
+.color2{
+	padding-left: 20px;
+	padding-top: 150px;
+	font-size: 20px;
+	color: white;
+
+}
+.color3{
+	padding-left: 20px;
+	padding-top: 130px;
+	font-size: 20px;
+	color: white;
+
+}
+.monkey{
+	background-image:url('../images/mon.jpg');
+	height: 400px;
+	width: 400px;
+	margin-left: 50px;
+	background-repeat: no repeat;
+	background-size: cover;
+	margin-top: 120px;
+	float: left;
+}
+.dinosar{
+	background-image:url('../images/kom.jpg');
+	height: 400px;
+	width: 400px;
+	margin-left: 40px;
+	background-size: cover;
+	margin-top: 120px;
+	float: left;
+	
+}
+.elephant{
+	height:750px;
+	width:1400px;
+	background: url('../images/ele.jpg');
+	color: white;
+	font-size:50px;
+	padding-top: 120px;
+	background-size: cover;
+}
+.heading_top1{
+	text-align: center;
+}
+.text_size1{
+	font-size:20px;
+	text-align:center;
+
+}
+.pblock{
+	
+	height: 600px;
+	width:100%;
+	background-color: black;
+
+}
+.ele{
+	text-align: center;
+	font-size: 50px;
+	color: white;
+}
+.smallp{
+	font-size: 20px;
+	text-align: center;
+	color: whitesmoke;
+}
+.horse{
+	height: 600px;
+	width: 100%;
+	background-image: url('../images/horse.jpg');
+	padding-top: 120px;
+	background-size: cover;
+}
+.blue{
+	height: 600px;
+	width: 100%;
+	background-color: black;
+
+}
+.iceb{
+	height:500px;
+	width: 600px;
+	background-image: url('../images/iceburg.jpg');
+	background-size: cover;
+	float:left;
+	margin-left: 40px;
+	margin-top: 20px;
+}
+.octb{
+	height: 500px;
+	width: 600px;
+	background-image:url('../images/oct1.jpg');
+	background-size: cover;
+	margin-left:50px;
+	margin-top: 20px;
+	background-color: black;
+	float:left;
+	
+}
+.last{
+	height: 1000px;
+	width:1400px;
+	background-color: black;
+}
+.bigp0{
+	text-align: center;
+	font-size: 50px;
+	color: white;
+
+}
+.smallp2{
+	font-size: 20px;
+	text-align: center;
+	color: whitesmoke;
+
+}
+.w{
+	background-image: url('../images/wild.jpg');
+	height: 400px;
+	width: 300px;
+	object-fit: cover;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-left:20px;
+	float:left;
+	margin-top: 20px;
+}
+.x{
+	background-image: url('../images/ele1.jpg');
+	height: 400px;
+	width: 350px;
+	object-fit: cover;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-left: 20px;
+	float:left;
+	margin-top: 20px;
+
+}
+.y{background-image: url('../images/monkey.jpg');
+	height: 400px;
+	width: 350px;
+	object-fit: cover;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-left: 20px;
+	float:left;
+	margin-top: 20px;
+
+}
+.z{background-image: url('../images/owl.jpg');
+	height: 400px;
+	width: 300px;
+	object-fit: cover;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-left: 20px;
+	float:left;
+	margin-top: 20px;
+
+}
+.final{
+	height: 700px;
+	width: 1400px;
+}
+.last0{
+	background-color: black;
+	height: 100px;
+	width: 400px;
+	margin-left: 50px;
+	float: left;
+}
+.last1{
+	background-color: black;
+	height: 100px;
+	width: 400px;
+	margin-left: 50px;
+	float:left;
+
+}
+.last2{
+	background-color: black;
+	height: 100px;
+	width: 400px;
+	margin-left: 50px;
+	float: left;
+}
+.plast{
+	color: white;
+	text-align: center;
+	padding-top: 25px;
+}
+.plast2{
+	color: white;
+	text-align: center;
+	padding-top: 25px;
+}
+.plast3{
+	color: white;
+	text-align: center;
+	padding-top: 25px;
+	margin-top: 25px;
+}
